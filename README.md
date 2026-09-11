@@ -142,9 +142,5 @@ python3 gestion_alumnos.py
 - Python 3 (uso exclusivo de librerías estándar / standard library only)
 
 ## 👤 Autor / Author
-- Tu nombre aquí / Your name here — [GitHub](https://github.com/tu-usuario)
+- Jeremias / Your name here — [GitHub](https://github.com/jeremias1234-bit/)
 
-## 📄 Licencia / License
-Este proyecto no tiene una licencia definida todavía. Podés agregar una (por ejemplo, MIT) según lo necesites.
-
-This project doesn't have a license yet. Feel free to add one (e.g., MIT) as needed.
